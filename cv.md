@@ -26,3 +26,12 @@ function sum(a, b) {
   return a + b;
 }
 ```
+
+# Education
+
+* Belarusian State Economic University
+* Udemy https://www.udemy.com/course/webdeveloper/
+
+# Languages
+* Russian - native speaker.
+* English - A2
